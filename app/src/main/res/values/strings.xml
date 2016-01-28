@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExtremeFitness</string>
+    <string name="title_video_detail">Video Detail</string>
+    <string name="video_preview">Video preview</string>
+    <string name="url_youtube_preview">http://img.youtube.com/vi/%s/mqdefault.jpg</string>
+    <string name="url_youtube_video">http://www.youtube.com/watch?v=%s</string>
+    <string name="load_videos">Загрузить</string>
+</resources>
